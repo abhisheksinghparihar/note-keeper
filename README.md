@@ -1,6 +1,6 @@
 # Demo 
 
-Deployed the project in github pages https://abhishekparihar.github.io/note-keeper/
+Deployed the project in github pages https://abhisheksinghparihar.github.io/note-keeper/
 
 # Getting Started with Create React App
 
